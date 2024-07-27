@@ -4,7 +4,7 @@ import os
 import yt_dlp
 
 # Replace 'YOUR_TELEGRAM_BOT_TOKEN' with your actual bot token
-bot_token = "6361320030:AAFSiN8D2bPXQTcERqsxZfumlGCwms7OfsM"
+bot_token = "6361320030:AAEFHZcizbWEdOClbBQIfcSsTLOPe2l_NVU"
 bot = TeleBot(bot_token)
 
 # Define the download buttons
