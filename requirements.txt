@@ -1,0 +1,5 @@
+requests
+telebot 
+types
+os
+yt_dlp
