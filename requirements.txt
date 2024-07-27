@@ -1,5 +1,4 @@
 requests
 telebot 
-os
 yt_dlp
 pyTelegramBotAPI
